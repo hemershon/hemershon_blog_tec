@@ -1,16 +1,30 @@
-Olá, pessoal, resolver criar uma trajetória para melhorar minhas técnicas de desenvolvimento e elevar meu nível de conhecimento técnico, vou separar por duas trilhas, a primeira vou criar um cronograma para melhorar minhas técnicas em algoritmos, tendo em vista que praticar sobre como entender o problema e executar ele vai ajudar a melhorar minhas técnicas e claro subir meu nível de conhecimento. 
+---
+title: "Trilha Profissional"
+categories:
+  - web
+tags:
+  - web
+  - rails
+  - ruby
+  - html
+---
+Olá a todos,
 
-Segundo é revisar do início os estudos sobre todo o ecossistema web, vou abordar cada ponto que estudei e pontuar quais pontos precisar de um foco, lembrando que todo conhecimento é valido independente se você vai usar ou não. 
+Decidi traçar um caminho para aprimorar minhas habilidades de desenvolvimento e elevar meu conhecimento técnico. Planejo dividir esse percurso em duas trilhas distintas.
 
-Qual é o motivo de eu revisar isso? 
+Na primeira trilha, estabelecerei um cronograma para aprimorar minhas habilidades em algoritmos. Reconheço a importância de praticar a compreensão de problemas e sua execução, pois isso contribuirá significativamente para meu crescimento técnico.
 
- 
+A segunda trilha será uma revisão abrangente de todo o ecossistema da web. Pretendo revisitar cada tópico que já estudei, identificando áreas que precisam de foco. Valorizo a ideia de que todo conhecimento é valioso, independentemente de sua aplicação prática.
 
-Primeiro ponto é para reforçar meus conhecimentos em algoritmos, aprender a pensar como resolver da melhor forma possível dentro de um período aceitável. 
+Mas por que estou fazendo isso?
 
-Entrando também em estrutura de dados, ambos andam juntos na programação, então faz todo sentido estudar sobre o assunto, vamos criar pontos interessantes sobre a estrutura de dados. 
+Em primeiro lugar, essa revisão ajudará a consolidar meu entendimento em algoritmos, permitindo-me abordar problemas de forma mais eficaz e dentro de prazos razoáveis.
 
-Segundo ponto vamos criar uma trilha para evoluir e reforça o nível de um desenvolvedor web. 
+Além disso, aprofundarei meu conhecimento em estruturas de dados, pois reconheço que algoritmos e estruturas de dados estão interligados na programação. Planejo explorar tópicos fascinantes relacionados a estruturas de dados.
+
+A segunda trilha tem como objetivo criar um caminho claro para o crescimento e aprimoramento como desenvolvedor web. Pretendo abordar uma ampla gama de tópicos para elevar meu nível de conhecimento e habilidades.
+
+Estou empolgado para embarcar nessa jornada e compartilhar minhas descobertas ao longo do caminho. Juntos, espero que possamos aprender e crescer como profissionais de 
 
 **Habilidades Técnicas:** 
  
