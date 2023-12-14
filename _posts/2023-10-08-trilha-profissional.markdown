@@ -29,25 +29,26 @@ Estou empolgado para embarcar nessa jornada e compartilhar minhas descobertas ao
 **Habilidades Técnicas:**
 
 1. **HTML e CSS:** Domine a criação de páginas da web com HTML e estilize-as com CSS. Aprenda sobre layouts responsivos.
-[HTML]()
+<p>
+[HTML](https://hemershon.github.io/web/html/css/iniciante/o-basico-de-html/)
 
-2. **JavaScript:** Torne-se proficiente em JavaScript e seus frameworks populares, como React, Angular ou Vue.js, para desenvolvimento front-end.
+1. **JavaScript:** Torne-se proficiente em JavaScript e seus frameworks populares, como React, Angular ou Vue.js, para desenvolvimento front-end.
 
-3. **Backend Development:** Escolha uma linguagem de programação para o desenvolvimento de back-end, como Ruby, Python, Java, Node.js ou PHP. Aprenda a criar APIs e lidar com solicitações do cliente.
+2. **Backend Development:** Escolha uma linguagem de programação para o desenvolvimento de back-end, como Ruby, Python, Java, Node.js ou PHP. Aprenda a criar APIs e lidar com solicitações do cliente.
 
-4. **Frameworks de Backend:** Domine um framework de backend popular, como Ruby on Rails, Django (Python), Spring (Java) ou Express.js (Node.js).
+3. **Frameworks de Backend:** Domine um framework de backend popular, como Ruby on Rails, Django (Python), Spring (Java) ou Express.js (Node.js).
 
-5. **Bancos de Dados:** Entenda bancos de dados relacionais (MySQL, PostgreSQL) e NoSQL (MongoDB). Aprenda a projetar bancos de dados eficientes.
+4. **Bancos de Dados:** Entenda bancos de dados relacionais (MySQL, PostgreSQL) e NoSQL (MongoDB). Aprenda a projetar bancos de dados eficientes.
 
-6. **APIs e RESTful Services:** Saiba como criar e consumir APIs RESTful para troca de dados entre sistemas.
+5. **APIs e RESTful Services:** Saiba como criar e consumir APIs RESTful para troca de dados entre sistemas.
 
-7. **Versionamento de Código:** Use ferramentas de controle de versão, como Git, e aprenda a trabalhar em equipe com o GitFlow.
+6. **Versionamento de Código:** Use ferramentas de controle de versão, como Git, e aprenda a trabalhar em equipe com o GitFlow.
 
-8. **Segurança Web:** Esteja ciente das melhores práticas de segurança, incluindo proteção contra ataques de injeção, autenticação segura e autorização.
+7. **Segurança Web:** Esteja ciente das melhores práticas de segurança, incluindo proteção contra ataques de injeção, autenticação segura e autorização.
 
-9.  **Testes Automatizados:** Aprenda a escrever testes de unidade, integração e testes de aceitação. Frameworks populares incluem Jest, RSpec e Selenium.
+8.  **Testes Automatizados:** Aprenda a escrever testes de unidade, integração e testes de aceitação. Frameworks populares incluem Jest, RSpec e Selenium.
 
-10. **DevOps:** Familiarize-se com práticas de DevOps, como implantação contínua (CI/CD), contêineres (Docker) e orquestração (Kubernetes).
+9.  **DevOps:** Familiarize-se com práticas de DevOps, como implantação contínua (CI/CD), contêineres (Docker) e orquestração (Kubernetes).
 
 **Habilidades Profissionais:**
 
