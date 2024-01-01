@@ -8,9 +8,11 @@ categories:
   - linux
   - git
 tags:
+  - iniciante
   - rails
   - ruby
   - postgresql
+  - linux
   - git
 ---
 Criando o ambiente de desenvolvimento web Ruby on Rails
