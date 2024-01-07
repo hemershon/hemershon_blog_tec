@@ -14,6 +14,7 @@ tags:
   - postgresql
   - linux
   - git
+  - redis
 ---
 Criando o ambiente de desenvolvimento web Ruby on Rails
 
