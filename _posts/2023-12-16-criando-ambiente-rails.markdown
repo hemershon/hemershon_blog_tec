@@ -7,6 +7,7 @@ categories:
   - postgresql
   - linux
   - git
+  - redis
 tags:
   - iniciante
   - rails
